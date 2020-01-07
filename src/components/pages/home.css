@@ -1,0 +1,13 @@
+.home-wrapper {
+  height: 94vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-content: center;
+}
+
+.home-wrapper .links {
+  margin: auto;
+  width: 500px;
+  height: 200px;
+}
